@@ -1,0 +1,23 @@
+.mes_infos{
+     text-align: center;
+background-color: chartreuse;
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,9,1) 35%, rgba(0,212,255,1) 100%);
+}
+.moi{
+    border-radius: 100%;
+    text-align: center;
+}
+.mes_image{
+    text-align: center;
+
+
+}
+.mes_heures{
+    text-align: center;
+
+
+}
+.mes_donnees{
+    text-align: center;
+}
